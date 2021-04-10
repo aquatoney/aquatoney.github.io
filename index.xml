@@ -110,6 +110,70 @@
     </item>
     
     <item>
+      <title>A modular compiler for network programming languages</title>
+      <link>/publication/li-2020-modular/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/li-2020-modular/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A scalable approach to SDN control plane management: High utilization comes with low latency</title>
+      <link>/publication/huang-2020-scalable/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/huang-2020-scalable/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>An Intermediate Representation for Network Programming Languages</title>
+      <link>/publication/li-2020-intermediate/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/li-2020-intermediate/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>APKeep: Realtime Verification for Real Networks</title>
+      <link>/publication/zhang-2020-apkeep/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/zhang-2020-apkeep/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Application-Oblivious L7 Parsing Using Recurrent Neural Networks</title>
+      <link>/publication/li-2020-application/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/li-2020-application/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Efficient regular expression matching over compressed traffic</title>
+      <link>/publication/sun-2020-efficient/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/sun-2020-efficient/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>FastUp: Compute a Better TCAM Update Scheme in Less Time for SDN Switches</title>
+      <link>/publication/wan-2020-fastup/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/wan-2020-fastup/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Network-Wide Forwarding Anomaly Detection and Localization in Software Defined Networks</title>
+      <link>/publication/zhang-2020-network/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/zhang-2020-network/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Slides</title>
       <link>/slides/example/</link>
       <pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate>
@@ -239,6 +303,94 @@ Three
     </item>
     
     <item>
+      <title>COIN: A fast packet inspection method over compressed traffic</title>
+      <link>/publication/sun-2019-coin/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/sun-2019-coin/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>NB-cache: non-blocking in-network caching for high-speed content routers</title>
+      <link>/publication/pan-2019-nb/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/pan-2019-nb/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Non-Blocking In-Network Caching for High-Capacity Content Routers</title>
+      <link>/publication/pan-2019-non/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/pan-2019-non/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>CORA: Conflict Razor for Policies in SDN</title>
+      <link>/publication/li-2018-cora/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/li-2018-cora/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>DIAL: Distributed Elephant Flow Counting on SDN</title>
+      <link>/publication/peng-2018-dial/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/peng-2018-dial/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>FOCES: Detecting forwarding anomalies in software defined networks</title>
+      <link>/publication/zhang-2018-foces/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/zhang-2018-foces/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ShiftRoute: Achieving location privacy for map services on smartphones</title>
+      <link>/publication/zhang-2018-shiftroute/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/zhang-2018-shiftroute/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Taming the wild: A scalable anycast-based CDN architecture (T-SAC)</title>
+      <link>/publication/fu-2018-taming/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/fu-2018-taming/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Towards a Fast Regular Expression Matching Method over Compressed Traffic</title>
+      <link>/publication/sun-2018-towards/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/sun-2018-towards/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SoftRing: Taming the reactive model for software defined networks</title>
+      <link>/publication/hu-2017-softring/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/hu-2017-softring/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Towards a fast packet inspection over compressed HTTP traffic</title>
+      <link>/publication/sun-2017-towards/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/sun-2017-towards/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Example Project</title>
       <link>/project/example/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
@@ -249,6 +401,62 @@ Three
 &lt;p&gt;Suspendisse a tincidunt lacus. Curabitur at urna sagittis, dictum ante sit amet, euismod magna. Sed rutrum massa id tortor commodo, vitae elementum turpis tempus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean purus turpis, venenatis a ullamcorper nec, tincidunt et massa. Integer posuere quam rutrum arcu vehicula imperdiet. Mauris ullamcorper quam vitae purus congue, quis euismod magna eleifend. Vestibulum semper vel augue eget tincidunt. Fusce eget justo sodales, dapibus odio eu, ultrices lorem. Duis condimentum lorem id eros commodo, in facilisis mauris scelerisque. Morbi sed auctor leo. Nullam volutpat a lacus quis pharetra. Nulla congue rutrum magna a ornare.&lt;/p&gt;
 &lt;p&gt;Aliquam in turpis accumsan, malesuada nibh ut, hendrerit justo. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Quisque sed erat nec justo posuere suscipit. Donec ut efficitur arcu, in malesuada neque. Nunc dignissim nisl massa, id vulputate nunc pretium nec. Quisque eget urna in risus suscipit ultricies. Pellentesque odio odio, tincidunt in eleifend sed, posuere a diam. Nam gravida nisl convallis semper elementum. Morbi vitae felis faucibus, vulputate orci placerat, aliquet nisi. Aliquam erat volutpat. Maecenas sagittis pulvinar purus, sed porta quam laoreet at.&lt;/p&gt;
 </description>
+    </item>
+    
+    <item>
+      <title>Deep semantics inspection over big network data at wire speed</title>
+      <link>/publication/hu-2016-deep/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>/publication/hu-2016-deep/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mind the gap: Monitoring the control-data plane consistency in software defined networks</title>
+      <link>/publication/zhang-2016-mind/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>/publication/zhang-2016-mind/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Modular sdn compiler design with intermediate representation</title>
+      <link>/publication/li-2016-modular/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>/publication/li-2016-modular/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Stick to the script: Monitoring the policy compliance of SDN data plane</title>
+      <link>/publication/zhang-2016-stick/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>/publication/zhang-2016-stick/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Parsing application layer protocol with commodity hardware for SDN</title>
+      <link>/publication/li-2015-parsing/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>/publication/li-2015-parsing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tech. Report: Deep Semantic Inspection for On-Line Analysis of Big Network Data</title>
+      <link>/publication/hu-2015-tech/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>/publication/hu-2015-tech/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>MP-ROOM: Optimal Matching On Multiple PDUs for Fine-Grained Traffic Identification</title>
+      <link>/publication/li-2014-mp/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>/publication/li-2014-mp/</guid>
+      <description></description>
     </item>
     
     <item>
@@ -268,6 +476,14 @@ Three
 &lt;/div&gt;
 &lt;p&gt;Supplementary notes can be added here, including &lt;a href=&#34;https://wowchemy.com/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code, math, and images&lt;/a&gt;.&lt;/p&gt;
 </description>
+    </item>
+    
+    <item>
+      <title>ROOM: Rule Organized Optimal Matching for fine-grained traffic identification</title>
+      <link>/publication/li-2013-room/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>/publication/li-2013-room/</guid>
+      <description></description>
     </item>
     
     <item>

@@ -5,12 +5,140 @@
     <link>/publication-type/1/</link>
       <atom:link href="/publication-type/1/index.xml" rel="self" type="application/rss+xml" />
     <description>1</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jul 2013 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jan 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>1</title>
       <link>/publication-type/1/</link>
     </image>
+    
+    <item>
+      <title>A modular compiler for network programming languages</title>
+      <link>/publication/li-2020-modular/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/li-2020-modular/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>An Intermediate Representation for Network Programming Languages</title>
+      <link>/publication/li-2020-intermediate/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/li-2020-intermediate/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>APKeep: Realtime Verification for Real Networks</title>
+      <link>/publication/zhang-2020-apkeep/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/zhang-2020-apkeep/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>FastUp: Compute a Better TCAM Update Scheme in Less Time for SDN Switches</title>
+      <link>/publication/wan-2020-fastup/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/wan-2020-fastup/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>NB-cache: non-blocking in-network caching for high-speed content routers</title>
+      <link>/publication/pan-2019-nb/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/pan-2019-nb/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Non-Blocking In-Network Caching for High-Capacity Content Routers</title>
+      <link>/publication/pan-2019-non/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/pan-2019-non/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>CORA: Conflict Razor for Policies in SDN</title>
+      <link>/publication/li-2018-cora/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/li-2018-cora/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>DIAL: Distributed Elephant Flow Counting on SDN</title>
+      <link>/publication/peng-2018-dial/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/peng-2018-dial/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>FOCES: Detecting forwarding anomalies in software defined networks</title>
+      <link>/publication/zhang-2018-foces/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/zhang-2018-foces/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Towards a Fast Regular Expression Matching Method over Compressed Traffic</title>
+      <link>/publication/sun-2018-towards/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/sun-2018-towards/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SoftRing: Taming the reactive model for software defined networks</title>
+      <link>/publication/hu-2017-softring/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/hu-2017-softring/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Towards a fast packet inspection over compressed HTTP traffic</title>
+      <link>/publication/sun-2017-towards/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/sun-2017-towards/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mind the gap: Monitoring the control-data plane consistency in software defined networks</title>
+      <link>/publication/zhang-2016-mind/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>/publication/zhang-2016-mind/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Modular sdn compiler design with intermediate representation</title>
+      <link>/publication/li-2016-modular/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>/publication/li-2016-modular/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Stick to the script: Monitoring the policy compliance of SDN data plane</title>
+      <link>/publication/zhang-2016-stick/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>/publication/zhang-2016-stick/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Parsing application layer protocol with commodity hardware for SDN</title>
+      <link>/publication/li-2015-parsing/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>/publication/li-2015-parsing/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>An example conference paper</title>
@@ -29,6 +157,14 @@
 &lt;/div&gt;
 &lt;p&gt;Supplementary notes can be added here, including &lt;a href=&#34;https://wowchemy.com/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code, math, and images&lt;/a&gt;.&lt;/p&gt;
 </description>
+    </item>
+    
+    <item>
+      <title>ROOM: Rule Organized Optimal Matching for fine-grained traffic identification</title>
+      <link>/publication/li-2013-room/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>/publication/li-2013-room/</guid>
+      <description></description>
     </item>
     
   </channel>
