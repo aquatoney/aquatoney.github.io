@@ -14,6 +14,8 @@ He is mainly interested in networked systems, including programmable networks, m
 He is a member of ANTS Lab.
 
 
+**We Want You!**
+
 I'm looking for self-motivated Master/Ph.D students to work with me at XJTU. 
 Feel free to drop me an email with your CV.
 
