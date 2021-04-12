@@ -1,12 +1,12 @@
-title: Geeky corner
-description: Much-Worse Jekyll theme for academic page and blog
+title: Hao Li
+description: Hao Li's Home Page
 sourcecode: "https://github.com/gchauras/much-worse-jekyll-theme"
 
 permalink: blog/:year/:month/:day/:title
 exclude: ["Makefile", "README.md"]
 
 url: "https://aquatoney.github.io"     # the base hostname & protocol for your site
-baseurl: "/"                   # the subpath of your site, e.g. /blog
+baseurl: ""                   # the subpath of your site, e.g. /blog
 
 author:
     name:
@@ -15,6 +15,10 @@ author:
 
 # Build settings
 markdown: kramdown
+# markdown: GFM
+# markdown: redcarpet
+# redcarpet:
+#     extensions: ["tables"]
 highlighter: rouge
 
 # Settings for analytics helper

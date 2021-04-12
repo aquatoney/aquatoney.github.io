@@ -1,0 +1,155 @@
+I"?<h1 id="about-me">About Me</h1>
+
+<div class="captioned-img alignright">
+    <a href="images/avatar.jpg">
+    
+    <img src="images/avatar.jpg" width="150px" />
+    </a>
+</div>
+
+<p><strong>Hao Li (李昊)</strong> is an associate professor at the <a href="http://www.cs.xjtu.edu.cn">School of Computer Science and Technology</a>, 
+<a href="http://www.xjtu.edu.cn">Xi’an Jiaotong University</a> in P.R. China. 
+He received his Ph.D. degree from Department of Computer Science and Technology, Xi’an Jiaotong University in 2016. 
+He is mainly interested in networked systems, including programmable networks, middleboxes and network verification.</p>
+
+<p>I’m looking for self-motivated Master/Ph.D students to work with me at XJTU. 
+Feel free to drop me an email with your CV.</p>
+
+<p>Feel free to contact me too, if you are an undergradute and interested in internship opportunities in our group.</p>
+
+<p><strong>Contact Info</strong></p>
+
+<p>#234 Pengkang Building, Xingqing<br />
+#6086 Hongli Building, iHabor<br />
+<a href="mailto:hao.li@xjtu.edu.cn">hao.li at xjtu.edu.cn</a></p>
+
+<h2 id="selected-papers-full-list">Selected Papers (<a href="/pubs/">Full List</a>)</h2>
+
+<table style="font-size: 11pt;">
+<tbody>
+
+
+<tr> 
+<td> <b>NSDI 2021</b> </td>
+<td> <a href="">Programming Network Stack for Middleboxes with Rubik</a>  </td>
+</tr>
+<!--  -->
+<!--  -->
+
+
+
+<tr> 
+<td> <b>CoNEXT 2020</b> </td>
+<td> <a href="">A Modular Compiler for Network Programming Languages</a>  </td>
+</tr>
+<!--  -->
+<!--  -->
+
+
+
+
+
+
+
+<tr> 
+<td> <b>ToN 2020</b> </td>
+<td> <a href="">Application-Oblivious L7 Parsing Using Recurrent Neural Networks</a>  </td>
+</tr>
+<!--  -->
+<!--  -->
+
+
+
+
+
+
+
+<tr> 
+<td> <b>NSDI 2020</b> </td>
+<td> <a href="">APKeep: Realtime Verification for Real Networks</a>  </td>
+</tr>
+<!--  -->
+<!--  -->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<tr> 
+<td> <b>INFOCOM 2018</b> </td>
+<td> <a href="">CORA: Conflict Razor for Policies in SDN</a>  </td>
+</tr>
+<!--  -->
+<!--  -->
+
+
+
+
+
+
+
+<tr> 
+<td> <b>CoNEXT 2016</b> </td>
+<td> <a href="">Mind the Gap: Monitoring the Control-Data Plane Consistency in Software Defined Networks</a>  </td>
+</tr>
+<!--  -->
+<!--  -->
+
+
+
+
+
+
+
+<tr> 
+<td> <b>IEEE Network 2016</b> </td>
+<td> <a href="">Deep Semantics Inspection over Big Network Data at Wire Speed</a>  </td>
+</tr>
+<!--  -->
+<!--  -->
+
+
+
+<tr> 
+<td> <b>ANCS 2015</b> </td>
+<td> <a href="">Parsing Application Layer Protocol with Commodity Hardware for SDN</a>  </td>
+</tr>
+<!--  -->
+<!--  -->
+
+
+
+<tr> 
+<td> <b>JSAC 2014</b> </td>
+<td> <a href="">MP-ROOM: Optimal Matching On Multiple PDUs for Fine-Grained Traffic Identification</a>  </td>
+</tr>
+<!--  -->
+<!--  -->
+
+
+
+<tr> 
+<td> <b>INFOCOM 2013</b> </td>
+<td> <a href="">ROOM: Rule Organized Optimal Matching for Fine-Grained Traffic Identification</a>  </td>
+</tr>
+<!--  -->
+<!--  -->
+
+
+</tbody>
+</table>
+
+<!-- [Yavin]: https://en.wikipedia.org/wiki/Yavin -->
+:ET

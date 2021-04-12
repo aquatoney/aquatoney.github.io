@@ -1,0 +1,26 @@
+- full: "USENIX NSDI"
+  abbr: "NSDI"
+
+- full: "ACM CoNEXT"
+  abbr: "CoNEXT"
+
+- full: "IEEE/ACM Transactions on Networking"
+  abbr: "ToN"
+
+- full: "IEEE INFOCOM"
+  abbr: "INFOCOM"
+
+- full: "IEEE Journal on Selected Areas in Communications"
+  abbr: "JSAC"
+
+- full: "IEEE ICNP"
+  abbr: "ICNP"
+
+- full: "IEEE Transactions on Vehicular Technology"
+  abbr: "TVT"
+
+- full: "ACM/IEEE ANCS"
+  abbr: "ANCS"
+
+- full: "IEEE Network Magazine"
+  abbr: "NetMag"
