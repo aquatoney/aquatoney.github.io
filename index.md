@@ -1,9 +1,9 @@
 ---
 layout: page
-# title: About
+title: About
 permalink: /
 ---
-# About Me
+<!-- # About Me -->
 
 {% include image.html url="images/avatar.jpg" caption="" width="150px" align="right" %}
 
@@ -11,6 +11,7 @@ permalink: /
 [Xi'an Jiaotong University](http://www.xjtu.edu.cn) in P.R. China. 
 He received his Ph.D. degree from Department of Computer Science and Technology, Xi'an Jiaotong University in 2016. 
 He is mainly interested in networked systems, including programmable networks, middleboxes and network verification.
+He is a member of ANTS Lab.
 
 
 I'm looking for self-motivated Master/Ph.D students to work with me at XJTU. 
