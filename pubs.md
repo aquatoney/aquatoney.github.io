@@ -23,7 +23,7 @@ title: Publications
 {% if js_size != 0 %}
 {% assign journal=js[0].full %}
 {% endif %}
-* [**{{pub.title}}**]({% if pub.internal %}{{pub.url | prepend: site.baseurl}}{% else %}{{pub.url}}{% endif %})<br />
+* [**{{pub.title}}**]({{pub.file | prepend: site.fileurl | prepend: site.baseurl}})<br />
 {{pub.author|replace:'Hao Li','<u>Hao Li</u>'}}<br />
 **{{journal}}** **{{pub.year}}**
 <!-- {% if pub.note %} *({{pub.note}})* {% endif %}  -->

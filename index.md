@@ -14,7 +14,7 @@ He is mainly interested in networked systems, including programmable networks, m
 He is a member of ANTS Lab.
 
 
-**We Want You!**
+**We Want You**
 
 I'm looking for self-motivated Master/Ph.D students to work with me at XJTU. 
 Feel free to drop me an email with your CV.
@@ -35,7 +35,7 @@ Feel free to contact me too, if you are an undergradute and interested in intern
 {% if pub.select == "true" %}
 <tr> 
 <td style="width:10em;"> <b>{{pub.journal}} {{pub.year}}</b> </td>
-<td> <a href="{% if pub.internal %}{{pub.url | prepend: site.baseurl}}{% else %}{{pub.url}}{% endif %}">{{pub.title}}</a>  </td>
+<td> <a href="{{pub.file | prepend: site.fileurl | prepend: site.baseurl}}">{{pub.title}}</a>  </td>
 </tr>
 <!-- {% if pub.doi %}[[doi]({{pub.doi}})]{% endif %} -->
 <!-- {% if pub.media %}{% for article in pub.media %}[[{{article.name}}]({{article.url}})]{% endfor %}{% endif %} -->

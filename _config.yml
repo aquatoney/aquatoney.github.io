@@ -7,6 +7,7 @@ exclude: ["Makefile", "README.md"]
 
 url: "https://aquatoney.github.io"     # the base hostname & protocol for your site
 baseurl: ""                   # the subpath of your site, e.g. /blog
+fileurl: "/files/"
 
 author:
     name:
