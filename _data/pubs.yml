@@ -11,18 +11,18 @@
       year:    "2021"
       file:    "fairpolicer-infocom21-shan.pdf"
 
+    - title:   "Network-Wide Forwarding Anomaly Detection and Localization in Software Defined Networks"
+      author:  "Peng Zhang, Fangzheng Zhang, Shimin Xu, Zuoru Yang, Hao Li, Qi Li, Huanzhao Wang, Chao Shen, Chengchen Hu"
+      journal: "ToN"
+      year:    "2021"
+      file:    "foces-ton21-zhang.pdf"
+
     - title:   "A Modular Compiler for Network Programming Languages"
       author:  "Hao Li, Peng Zhang, Guangda Sun, Chengchen Hu, Danfeng Shan, Tian Pan, Qiang Fu"
       journal: "CoNEXT"
       year:    "2020"
       select:  "true"
       file:    "coder-conext20-li.pdf"
-
-    - title:   "Network-Wide Forwarding Anomaly Detection and Localization in Software Defined Networks"
-      author:  "Peng Zhang, Fangzheng Zhang, Shimin Xu, Zuoru Yang, Hao Li, Qi Li, Huanzhao Wang, Chao Shen, Chengchen Hu"
-      journal: "ToN"
-      year:    "2020"
-      file:    "foces-ton20-zhang.pdf"
 
     - title:   "An Intermediate Representation for Network Programming Languages"
       author:  "Hao Li, Peng Zhang, Guangda Sun, Chengchen Hu, Danfeng Shan, Tian Pan, Qiang Fu"
