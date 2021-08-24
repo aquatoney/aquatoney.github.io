@@ -1,3 +1,4 @@
+   
     - title:   "NB-Cache: Non-Blocking In-Network Caching for High-Performance Content Routers"
       author:  "Tian Pan, Xingchen Lin, Enge Song, Cheng Xu, Jiao Zhang, Hao Li, Jianhui Lv, Tao Huang, Bin Liu, Beichuan Zhang"
       journal: "ToN"
@@ -22,6 +23,12 @@
       journal: "ToN"
       year:    "2021"
       file:    "foces-ton21-zhang.pdf"
+      
+    - title:   "FastUp: Compute a Better TCAM Update Scheme in Less Time for SDN Switches"
+      author:  "Ying Wan, Haoyu Song, Hao Che, Yang Xu, Yi Wang, Chuwen Zhang, Zhijun Wang, Tian Pan, Hao Li, Hong Jiang, Chengchen Hu, Zhikang Chen, Bin Liu"
+      journal: "IEEE ICDCS"
+      year:    "2020"
+      file:    "fastup-icdcs20-wan.pdf"    
 
     - title:   "A Modular Compiler for Network Programming Languages"
       author:  "Hao Li, Peng Zhang, Guangda Sun, Chengchen Hu, Danfeng Shan, Tian Pan, Qiang Fu"
