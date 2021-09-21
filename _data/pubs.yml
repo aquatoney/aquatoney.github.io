@@ -1,3 +1,10 @@
+    - title:   "Differential Network Analysis"
+      author:  "Peng Zhang, Aaron Gember-Jacobson, Yueshang Zuo, Yuhao Huang, Xu Liu, Hao Li"
+      journal: "NSDI"
+      year:    "2022"
+      select:  "true"
+      file:    "dna-nsdi22-zhang.pdf"
+    
     - title:   "FastUp: Fast TCAM Update for SDN Switches in Datacenter Network"
       author:  "Ying Wan, Haoyu Song, Hao Che, Yang Xu, Yi Wang, Chuwen Zhang, Zhijun Wang, Tian Pan, Hao Li, Hong Jiang, Chengchen Hu, Zhikang Chen, Bin Liu"
       journal: "IEEE ICDCS"
