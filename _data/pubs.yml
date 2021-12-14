@@ -1,3 +1,10 @@
+     - title:   "Compiling Cross-Language Network Programs into Hybrid Data Plane"
+      author:  "Hao Li, Peng Zhang, Guangda Sun, Wanyue Cao, Chengchen Hu, Danfeng Shan, Tian Pan, Qiang Fu"
+      journal: "ToN"
+      year:    "2022"
+      select:  "true"
+      file:    "coder-ton22-li.pdf"
+
     - title:   "Differential Network Analysis"
       author:  "Peng Zhang, Aaron Gember-Jacobson, Yueshang Zuo, Yuhao Huang, Xu Liu, Hao Li"
       journal: "NSDI"
