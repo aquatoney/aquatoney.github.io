@@ -4,6 +4,13 @@
       year:    "2022"
       select:  "true"
       file:    "coder-ton22-li.pdf"
+      
+    - title:   "Raze Policy Conflicts in SDN"
+      author:  "Yadong Zhou, Hao Li, Kaiyue Chen, Tian Pan, Kun Qian, Kai Zheng, Bin Liu, Peng Zhang, Yazhe Tang, Chengchen Hu"
+      journal: "Journal of Network and Computer Applications"
+      year:    "2022"
+      select:  "false"
+      file:    "cora-jnca22-zhou.pdf"
 
     - title:   "Differential Network Analysis"
       author:  "Peng Zhang, Aaron Gember-Jacobson, Yueshang Zuo, Yuhao Huang, Xu Liu, Hao Li"
