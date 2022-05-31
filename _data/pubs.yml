@@ -1,3 +1,10 @@
+    - title:   "DOLPHIN: Phonics based Detection of DGA Domain Names"
+      author:  "Dan Zhao, Hao Li, Xiuwen Sun, Yazhe Tang"
+      journal: "IEEE Globecom"
+      year:    "2022"
+      select:  "false"
+      file:    "dolphin-globecom22-zhao.pdf"
+      
     - title:   "Compiling Cross-Language Network Programs into Hybrid Data Plane"
       author:  "Hao Li, Peng Zhang, Guangda Sun, Wanyue Cao, Chengchen Hu, Danfeng Shan, Tian Pan, Qiang Fu"
       journal: "ToN"
