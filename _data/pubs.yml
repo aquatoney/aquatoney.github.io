@@ -12,6 +12,28 @@
       select:  "false"
       file:    "netminer-icnp23-kang.pdf"
 
+    - title:   "Programming Network Stack for Physical Middleboxes and Virtualized Network Functions"
+      author:  "Hao Li, Yihan Dang, Changhao Wu, Guangda Sun, Peng Zhang, Danfeng Shan, Tian Pan, Chengchen Hu"
+      journal: "ToN"
+      year:    "2023"
+      select:  "true"
+      file:    "rubik-ton23-li.pdf"
+
+    - title:   "Enforcing Fairness in the Traffic Policer among Heterogeneous Congestion Control Algorithms"
+      author:  "Danfeng Shan, Linbing Jiang, Peng Zhang, Wanchun Jiang, Hao Li, Fengyuan Ren"
+      journal: "ToN"
+      year:    "2023"
+      select:  "false"
+      file:    "fairpolicer-ton23-shan.pdf"  
+          
+
+    - title:   "Less is More: Dynamic and Shared Headroom Allocation in PFC-enabled Datacenter Networks"
+      author:  "Danfeng Shan, Yuqi Liu, Tong Zhang, Yifan Liu, Yazhe Tang, Hao Li, Peng Zhang"
+      journal: "ICDCS"
+      year:    "2023"
+      select:  "false"
+      file:    "dsh-icdcs-shan.pdf"
+
     - title:   "LemonNFV: Consolidating Heterogeneous Network Functions at Line Speed"
       author:  "Hao Li, Yihan Dang, Guangda Sun, Guyue Liu, Danfeng Shan, Peng Zhang"
       journal: "NSDI"
