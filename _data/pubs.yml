@@ -1,3 +1,17 @@
+    - title:   "FlowShredder: A Protocol-Independent in-Network Security Service in the Cloud"
+      author:  "Bin Song, Bin Sun, Qiang Fu, Hao Li"
+      journal: "ICSOC"
+      year:    "2024"
+      select:  "false"
+      file:    "shredder-icsoc24-song.pdf"
+      
+    - title:   "Resource-Aware Intent Compilation for Virtual Private Cloud"
+      author:  "Jia Zhang, Wanyue Cao, Qiang Fu, Hao Li"
+      journal: "IEEE ISCC"
+      year:    "2024"
+      select:  "false"
+      file:    "afsc-iscc24-zhang.pdf"
+    
     - title:   "Modular Data Plane Verification for Compositional Networks"
       author:  "Xu Liu, Peng Zhang, Hao Li, Wenbing Sun"
       journal: "CoNEXT"
