@@ -1,3 +1,10 @@
+    - title:   "Occamy: A Preemptive Buffer Management for On-chip Shared-memory Switches"
+      author:  "Danfeng Shan, Yunguang Li, Jinchao Ma, Zhenxing Zhang, Zeyu Liang, Xinyu Wen, Hao Li, Wanchun Jiang, Nan Li, Fengyuan Ren"
+      journal: "ACM EuroSys"
+      year:    "2025"
+      select:  "false"
+      file:    "occamy-eurosys25-shan.pdf"
+    
     - title:   "FlowShredder: A Protocol-Independent in-Network Security Service in the Cloud"
       author:  "Bin Song, Bin Sun, Qiang Fu, Hao Li"
       journal: "ICSOC"
