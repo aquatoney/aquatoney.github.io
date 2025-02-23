@@ -24,8 +24,8 @@ title: Publications
 {% assign journal=js[0].full %}
 {% endif %}
 * [**{{pub.title}}**]({{pub.file | prepend: site.fileurl | prepend: site.baseurl}})<br />
-{% if pub.corespd == "false" %}{{pub.author|replace:'Hao Li','<u>Hao Li</u>'}}<br />
-{% else %}{{pub.author|replace:'Hao Li','<u>Hao Li*</u>'}}<br />{% endif %}
+{% if pub.corespd == "false" %}{{pub.author|replace:'Hao Li','<u>Hao Li</u>'}}
+{% else %}{{pub.author|replace:'Hao Li','<u>Hao Li*</u>'}}{% endif %}<br />
 **{{journal}}** **{{pub.year}}**
 <!-- {% if pub.note %} *({{pub.note}})* {% endif %}  -->
 {% if pub.doi %}[[doi]({{pub.doi}})]{% endif %}
