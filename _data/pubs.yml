@@ -2,6 +2,7 @@
       author:  "Danfeng Shan, Yunguang Li, Jinchao Ma, Zhenxing Zhang, Zeyu Liang, Xinyu Wen, Hao Li, Wanchun Jiang, Nan Li, Fengyuan Ren"
       journal: "ACM EuroSys"
       year:    "2025"
+      corespd: "false"
       select:  "false"
       file:    "occamy-eurosys25-shan.pdf"
     
@@ -9,6 +10,7 @@
       author:  "Bin Song, Bin Sun, Qiang Fu, Hao Li"
       journal: "ICSOC"
       year:    "2024"
+      corespd: "true"
       select:  "false"
       file:    "shredder-icsoc24-song.pdf"
       
@@ -16,6 +18,7 @@
       author:  "Jia Zhang, Wanyue Cao, Qiang Fu, Hao Li"
       journal: "IEEE ISCC"
       year:    "2024"
+      corespd: "true"
       select:  "false"
       file:    "afsc-iscc24-zhang.pdf"
     
@@ -23,6 +26,7 @@
       author:  "Xu Liu, Peng Zhang, Hao Li, Wenbing Sun"
       journal: "CoNEXT"
       year:    "2023"
+      corespd: "false"
       select:  "false"
       file:    "mnv-conext23-liu.pdf"
 
@@ -30,6 +34,7 @@
       author:  "Ning Kang, Peng Zhang, Hao Li, Sisi Wen, Chaoyang Ji, Yongqiang Yang"
       journal: "ICNP"
       year:    "2023"
+      corespd: "false"
       select:  "false"
       file:    "netminer-icnp23-kang.pdf"
 
@@ -37,6 +42,7 @@
       author:  "Hao Li, Yihan Dang, Changhao Wu, Guangda Sun, Peng Zhang, Danfeng Shan, Tian Pan, Chengchen Hu"
       journal: "ToN"
       year:    "2023"
+      corespd: "false"
       select:  "true"
       file:    "rubik-ton23-li.pdf"
 
@@ -44,6 +50,7 @@
       author:  "Danfeng Shan, Linbing Jiang, Peng Zhang, Wanchun Jiang, Hao Li, Fengyuan Ren"
       journal: "ToN"
       year:    "2023"
+      corespd: "false"
       select:  "false"
       file:    "fairpolicer-ton23-shan.pdf"  
           
@@ -52,6 +59,7 @@
       author:  "Danfeng Shan, Yuqi Liu, Tong Zhang, Yifan Liu, Yazhe Tang, Hao Li, Peng Zhang"
       journal: "ICDCS"
       year:    "2023"
+      corespd: "false"
       select:  "false"
       file:    "dsh-icdcs-shan.pdf"
 
@@ -59,6 +67,7 @@
       author:  "Hao Li, Yihan Dang, Guangda Sun, Guyue Liu, Danfeng Shan, Peng Zhang"
       journal: "NSDI"
       year:    "2023"
+      corespd: "false"
       select:  "true"
       file:    "lemon-nsdi23-li.pdf"
           
@@ -66,6 +75,7 @@
       author:  "Dan Zhao, Hao Li, Xiuwen Sun, Yazhe Tang"
       journal: "Future Generation Computer Systems"
       year:    "2023"
+      corespd: "false"
       select:  "false"
       file:    "dolphin-fgcs23-zhao.pdf"
 
@@ -73,6 +83,7 @@
       author:  "Danfeng Shan, Shihao Hu, Yuqi Liu, Wanchun Jiang, Hao Li, Peng Zhang, Yazhe Tang, Huanzhao Wang, Fengyuan Ren"
       journal: "INFOCOM"
       year:    "2023"
+      corespd: "false"
       select:  "false"
       file:    "flowbundler-infocom23-shan.pdf"
 
@@ -80,6 +91,7 @@
       author:  "Dan Zhao, Hao Li, Xiuwen Sun, Yazhe Tang"
       journal: "IEEE Globecom"
       year:    "2022"
+      corespd: "false"
       select:  "false"
       file:    "dolphin-globecom22-zhao.pdf"
       
@@ -87,6 +99,7 @@
       author:  "Hao Li, Peng Zhang, Guangda Sun, Wanyue Cao, Chengchen Hu, Danfeng Shan, Tian Pan, Qiang Fu"
       journal: "ToN"
       year:    "2022"
+      corespd: "false"
       select:  "true"
       file:    "coder-ton22-li.pdf"
       
@@ -94,6 +107,7 @@
       author:  "Yadong Zhou, Hao Li, Kaiyue Chen, Tian Pan, Kun Qian, Kai Zheng, Bin Liu, Peng Zhang, Yazhe Tang, Chengchen Hu"
       journal: "Journal of Network and Computer Applications"
       year:    "2022"
+      corespd: "true"
       select:  "false"
       file:    "cora-jnca22-zhou.pdf"
 
@@ -101,6 +115,7 @@
       author:  "Peng Zhang, Aaron Gember-Jacobson, Yueshang Zuo, Yuhao Huang, Xu Liu, Hao Li"
       journal: "NSDI"
       year:    "2022"
+      corespd: "false"
       select:  "true"
       file:    "dna-nsdi22-zhang.pdf"
     
@@ -108,18 +123,21 @@
       author:  "Ying Wan, Haoyu Song, Hao Che, Yang Xu, Yi Wang, Chuwen Zhang, Zhijun Wang, Tian Pan, Hao Li, Hong Jiang, Chengchen Hu, Zhikang Chen, Bin Liu"
       journal: "IEEE ICDCS"
       year:    "2021"
+      corespd: "false"
       file:    "fastup-icdcs21-wan.pdf"    
     
     - title:   "NB-Cache: Non-Blocking In-Network Caching for High-Performance Content Routers"
       author:  "Tian Pan, Xingchen Lin, Enge Song, Cheng Xu, Jiao Zhang, Hao Li, Jianhui Lv, Tao Huang, Bin Liu, Beichuan Zhang"
       journal: "ToN"
       year:    "2021"
+      corespd: "false"
       file:    "nbcache-ton21-pan.pdf"
 
     - title:   "Programming Network Stack for Middleboxes with Rubik"
       author:  "Hao Li, Changhao Wu, Guangda Sun, Peng Zhang, Danfeng Shan, Tian Pan, Chengchen Hu"
       journal: "NSDI"
       year:    "2021"
+      corespd: "false"
       select:  "true"
       file:    "rubik-nsdi21-li.pdf"
     
@@ -127,18 +145,23 @@
       author:  "Danfeng Shan, Peng Zhang, Wanchun Jiang, Hao Li, and Fengyuan Ren"
       journal: "INFOCOM"
       year:    "2021"
+      corespd: "false"
+      select:  "false"
       file:    "fairpolicer-infocom21-shan.pdf"
 
     - title:   "Network-Wide Forwarding Anomaly Detection and Localization in Software Defined Networks"
       author:  "Peng Zhang, Fangzheng Zhang, Shimin Xu, Zuoru Yang, Hao Li, Qi Li, Huanzhao Wang, Chao Shen, Chengchen Hu"
       journal: "ToN"
       year:    "2021"
+      corespd: "true"
+      select:  "false"
       file:    "foces-ton21-zhang.pdf"
 
     - title:   "A Modular Compiler for Network Programming Languages"
       author:  "Hao Li, Peng Zhang, Guangda Sun, Chengchen Hu, Danfeng Shan, Tian Pan, Qiang Fu"
       journal: "CoNEXT"
       year:    "2020"
+      corespd: "false"
       select:  "true"
       file:    "coder-conext20-li.pdf"
 
@@ -146,12 +169,14 @@
       author:  "Hao Li, Peng Zhang, Guangda Sun, Chengchen Hu, Danfeng Shan, Tian Pan, Qiang Fu"
       journal: "ACM APNet"
       year:    "2020"
+      corespd: "false"
       file:    "nta-apnet20-li.pdf"
 
     - title:   "Application-Oblivious L7 Parsing Using Recurrent Neural Networks"
       author:  "Hao Li, Zhengda Bian, Peng Zhang, Zhun Sun, Chengchen Hu, Qiang Fu, Tian Pan, Jia Lv"
       journal: "ToN"
       year:    "2020"
+      corespd: "false"
       select:  "true"
       file:    "replay-ton20-li.pdf"
 
@@ -159,18 +184,21 @@
       author:  "Xiuwen Sun, Hao Li, Dan Zhao, Xingxing Lu, Zheng Peng, Chengchen Hu"
       journal: "Computer Networks"
       year:    "2020"
+      corespd: "false"
       file:    "twins-cn20-sun.pdf"
 
     - title:   "A Scalable Approach to SDN Control Plane Management: High Utilization Comes with Low Latency"
       author:  "Victoria Huang, Gang Chen, Peng Zhang, Hao Li, Chengchen Hu, Tian Pan, Qiang Fu"
       journal: "IEEE Transactions on Network and Service Management"
       year:    "2020"
+      corespd: "false"
       file:    "cpsp-tnsm20-huang.pdf"
 
     - title:   "APKeep: Realtime Verification for Real Networks"
       author:  "Peng Zhang, Xu Liu, Hongkun Yang, Ning Kang, Zhengchang Gu, Hao Li"
       journal: "NSDI"
       year:    "2020"
+      corespd: "false"
       select:  "true"
       file:    "apkeep-nsdi20-zhang.pdf"
 
@@ -178,48 +206,56 @@
       author:  "Tian Pan, Xingchen Lin, Jiao Zhang, Hao Li, Jianhui Lv, Tao Huang, Bin Liu, Beichuan Zhang"
       journal: "IEEE/ACM IWQoS"
       year:    "2019"
+      corespd: "false"
       file:    "nbcache-iwqos19-pan.pdf"
     
     - title:   "COIN: A Fast Packet Inspection Method over Compressed Traffic"
       author:  "Xiuwen Sun, Hao Li, Dan Zhao, Xingxing Lu, Kaiyu Hou, Chengchen Hu"
       journal: "Journal of Network and Computer Applications"
       year:    "2019"
+      corespd: "true"
       file:    "coin-jnca19-sun.pdf"
 
     - title:   "DIAL: Distributed Elephant Flow Counting on SDN"
       author:  "Zheng Peng, Hao Li, Chengchen Hu"
       journal: "IEEE Globecom"
       year:    "2018"
+      corespd: "false"
       file:    "dial-globecom18-peng.pdf"
     
     - title:   "Taming the Wild: A Scalable Anycast-based CDN Architecture (T-SAC)"
       author:  "Qiang Fu, Bradley Rutter, Hao Li, Peng Zhang, Chengchen Hu, Tian Pan, Zhangqin Huang, Yibin Hou"
       journal: "JSAC"
       year:    "2018"
+      corespd: "false"
       file:    "tsac-jsac18-fu.pdf"
     
     - title:   "FOCES: Detecting forwarding anomalies in software defined networks"
       author:  "Peng Zhang, Shimin Xu, Zuoru Yang, Hao Li, Qi Li, Huanzhao Wang, Chengchen Hu"
       journal: "IEEE ICDCS"
       year:    "2018"
+      corespd: "false"
       file:    "foces-icdcs18-zhang.pdf"
 
     - title:   "ShiftRoute: Achieving location privacy for map services on smartphones"
       author:  "Peng Zhang, Chengchen Hu, Di Chen, Hao Li, Qi Li"
       journal: "TVT"
       year:    "2018"
+      corespd: "true"
       file:    "shiftroute-tvt18-zhang.pdf"
     
     - title:   "Towards a Fast Regular Expression Matching Method over Compressed Traffic"
       author:  "Xiuwen Sun, Hao Li, Xingxing Lu, Dan Zhao, Zheng Peng, Chengchen Hu"
       journal: "IEEE/ACM IWQoS"
       year:    "2018"
+      corespd: "true"
       file:    "twins-iwqos18-sun.pdf"
     
     - title:   "CORA: Conflict Razor for Policies in SDN"
       author:  "Hao Li, Kaiyue Chen, Tian Pan, Yadong Zhou, Kun Qian, Kai Zheng, Bin Liu, Peng Zhang, Yazhe Tang, Chengchen Hu"
       journal: "INFOCOM"
       year:    "2018"
+      corespd: "false"
       select:  "true"
       file:    "cora-infocom18-li.pdf"
     
@@ -227,18 +263,21 @@
       author:  "Chengchen Hu, Kaiyu Hou, Hao Li, Ruilong Wang, Peng Zheng, Peng Zhang, Huanzhao Wang"
       journal: "IEEE ICNP"
       year:    "2017"
+      corespd: "false"
       file:    "softring-icnp17-hu.pdf"
     
     - title:   "Towards a Fast Packet Inspection over Compressed HTTP Traffic"
       author:  "Xiuwen Sun, Kaiyu Hou, Hao Li, Chengchen Hu"
       journal: "IEEE/ACM IWQoS"
       year:    "2017"
+      corespd: "false"
       file:    "coin-iwqos17-sun.pdf"
     
     - title:   "Mind the Gap: Monitoring the Control-Data Plane Consistency in Software Defined Networks"
       author:  "Peng Zhang, Hao Li, Chengchen Hu, Liujia Hu, Lei Xiong, Ruilong Wang, Yuemei Zhang"
       journal: "CoNEXT"
       year:    "2016"
+      corespd: "false"
       select:  "true"
       file:    "veridp-conext16-zhang.pdf"
     
@@ -246,18 +285,21 @@
       author:  "Hao Li, Chengchen Hu, Peng Zhang, Lei Xie"
       journal: "ACM SIGCOMM Poster"
       year:    "2016"
+      corespd: "false"
       file:    "lisa-sigcommposter16-li.pdf"
     
     - title:   "Stick to the Script: Monitoring the Policy Compliance of SDN Data Plane"
       author:  "Peng Zhang, Hao Li, Chengchen Hu, Liujia Hu, Lei Xiong"
       journal: "ANCS"
       year:    "2016"
+      corespd: "false"
       file:    "veridp-ancs16-zhang.pdf"
     
     - title:   "Deep Semantics Inspection over Big Network Data at Wire Speed"
       author:  "Chengchen Hu, Hao Li, Yuming Jiang, Yu Cheng, Poul Heegaard"
       journal: "NetMag"
       year:    "2016"
+      corespd: "false"
       select:  "true"
       file:    "dsi-netmag16-hu.pdf"
     
@@ -265,6 +307,7 @@
       author:  "Hao Li, Chengchen Hu, Junkai Hong, Xiyu Chen, Yuming Jiang"
       journal: "ANCS"
       year:    "2015"
+      corespd: "false"
       select:  "true"
       file:    "copy-ancs15-li.pdf"
     
@@ -272,6 +315,7 @@
       author:  "Hao Li, Chengchen Hu"
       journal: "JSAC"
       year:    "2014"
+      corespd: "false"
       select:  "true"
       file:    "mproom-jsac14-li.pdf"
     
@@ -279,5 +323,6 @@
       author:  "Hao Li, Chengchen Hu"
       journal: "INFOCOM"
       year:    "2013"
+      corespd: "false"
       select:  "true"
       file:    "room-infocom13-li.pdf"
