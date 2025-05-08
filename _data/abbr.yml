@@ -4,8 +4,8 @@
 - full: "USENIX NSDI"
   abbr: "NSDI"
 
-- full: "ACM Eurosys"
-  abbr: "Eurosys"
+- full: "ACM EuroSys"
+  abbr: "EuroSys"
 
 - full: "ACM CoNEXT"
   abbr: "CoNEXT"
