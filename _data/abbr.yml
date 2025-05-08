@@ -1,5 +1,11 @@
+- full: "ACM SIGCOMM"
+  abbr: "SIGCOMM"
+
 - full: "USENIX NSDI"
   abbr: "NSDI"
+
+- full: "ACM Eurosys"
+  abbr: "Eurosys"
 
 - full: "ACM CoNEXT"
   abbr: "CoNEXT"
