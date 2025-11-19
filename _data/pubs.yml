@@ -1,10 +1,52 @@
+    - title:   "Fast and Accurate Software Traffic Shaping With Inter-Flow Batching"
+      author:  "Danfeng Shan, Shihao Hu, Yike Liu, Hao Li, Yazhe Tang, Peng Zhang, Wanchun Jiang, Fengyuan Ren"
+      journal: "ToN"
+      year:    "2025"
+      corespd: "false"
+      select:  "false"
+      ccf:     "a"
+      xjtu:    "true"
+      file:    "flowbundler-ton25-shan.pdf"
+      
+    - title:   "A Protocol-Independent in-Network Security Service in the Cloud"
+      author:  "Bin Song, Bin Sun, Qiang Fu, Hao Li"
+      journal: "Journal of Network and Computer Applications"
+      year:    "2025"
+      corespd: "true"
+      select:  "false"
+      ccf:     "c"
+      xjtu:    "true"
+      file:    "shredder-jnca25-song.pdf"
+      
+    - title:   "Network Specification Mining With High Fidelity, Scalability, and Readability"
+      author:  "Ning Kang, Peng Zhang, Hao Li, Sisi Wen, Chaoyang Ji, Yongqiang Yang"
+      journal: "ToN"
+      year:    "2025"
+      corespd: "false"
+      select:  "false"
+      ccf:     "a"
+      xjtu:    "true"
+      file:    "netminer-ton25-kang.pdf"
+      
     - title:   "S2: A Distributed Configuration Verifier for Hyper-Scale Networks"
       author:  "Dan Wang, Peng Zhang, Wenbing Sun, Wenkai Li, Xing Feng, Hao Li, Jiawei Chen, Weirong Jiang, Yongping Tang"
       journal: "SIGCOMM"
       year:    "2025"
       corespd: "false"
       select:  "true"
+      ccf:     "a"
+      xjtu:    "true"
       file:    "s2-sigcomm25-wang.pdf"
+
+    - title:   "Efficient Headroom Allocation With Two-Level Flow Control for Lossless Datacenter Networks"
+      author:  "Danfeng Shan, Jinchao Ma, Yunguang Li, Boxuan Hu, Tong Zhang, Yazhe Tang, Hao Li, Jinyu Wang, Peng Zhang"
+      journal: "ToN"
+      year:    "2025"
+      corespd: "false"
+      select:  "false"
+      ccf:     "a"
+      xjtu:    "true"
+      file:    "dsh-ton25-shan.pdf"
     
     - title:   "Occamy: A Preemptive Buffer Management for On-chip Shared-memory Switches"
       author:  "Danfeng Shan, Yunguang Li, Jinchao Ma, Zhenxing Zhang, Zeyu Liang, Xinyu Wen, Hao Li, Wanchun Jiang, Nan Li, Fengyuan Ren"
@@ -12,6 +54,8 @@
       year:    "2025"
       corespd: "false"
       select:  "true"
+      ccf:     "a"
+      xjtu:    "true"
       file:    "occamy-eurosys25-shan.pdf"
     
     - title:   "FlowShredder: A Protocol-Independent in-Network Security Service in the Cloud"
@@ -20,6 +64,8 @@
       year:    "2024"
       corespd: "true"
       select:  "false"
+      ccf:     "b"
+      xjtu:    "false"
       file:    "shredder-icsoc24-song.pdf"
       
     - title:   "Resource-Aware Intent Compilation for Virtual Private Cloud"
@@ -28,6 +74,8 @@
       year:    "2024"
       corespd: "true"
       select:  "false"
+      ccf:     "c"
+      xjtu:    "false"
       file:    "afsc-iscc24-zhang.pdf"
     
     - title:   "Modular Data Plane Verification for Compositional Networks"
@@ -36,6 +84,8 @@
       year:    "2023"
       corespd: "false"
       select:  "false"
+      ccf:     "b"
+      xjtu:    "false"
       file:    "mnv-conext23-liu.pdf"
 
     - title:   "Network Specification Mining with High Fidelity and Scalability"
@@ -44,6 +94,8 @@
       year:    "2023"
       corespd: "false"
       select:  "false"
+      ccf:     "b"
+      xjtu:    "false"
       file:    "netminer-icnp23-kang.pdf"
 
     - title:   "Programming Network Stack for Physical Middleboxes and Virtualized Network Functions"
@@ -52,6 +104,8 @@
       year:    "2023"
       corespd: "false"
       select:  "true"
+      ccf:     "a"
+      xjtu:    "true"
       file:    "rubik-ton23-li.pdf"
 
     - title:   "Enforcing Fairness in the Traffic Policer among Heterogeneous Congestion Control Algorithms"
@@ -60,6 +114,8 @@
       year:    "2023"
       corespd: "false"
       select:  "false"
+      ccf:     "a"
+      xjtu:    "true"
       file:    "fairpolicer-ton23-shan.pdf"  
           
 
@@ -69,6 +125,8 @@
       year:    "2023"
       corespd: "false"
       select:  "false"
+      ccf:     "b"
+      xjtu:    "false"
       file:    "dsh-icdcs-shan.pdf"
 
     - title:   "LemonNFV: Consolidating Heterogeneous Network Functions at Line Speed"
@@ -77,6 +135,8 @@
       year:    "2023"
       corespd: "false"
       select:  "true"
+      ccf:     "a"
+      xjtu:    "true"
       file:    "lemon-nsdi23-li.pdf"
           
     - title:   "Detecting DGA-based Botnet through Effective Phonics-based Features"
@@ -85,6 +145,8 @@
       year:    "2023"
       corespd: "false"
       select:  "false"
+      ccf:     "c"
+      xjtu:    "true"
       file:    "dolphin-fgcs23-zhao.pdf"
 
     - title:   "Burst can be Harmless: Achieving Line-rate Software Traffic Shaping by Inter-flow Batching"
@@ -93,6 +155,8 @@
       year:    "2023"
       corespd: "false"
       select:  "false"
+      ccf:     "a"
+      xjtu:    "true"
       file:    "flowbundler-infocom23-shan.pdf"
 
     - title:   "DOLPHIN: Phonics based Detection of DGA Domain Names"
@@ -101,6 +165,8 @@
       year:    "2022"
       corespd: "false"
       select:  "false"
+      ccf:     "c"
+      xjtu:    "false"
       file:    "dolphin-globecom22-zhao.pdf"
       
     - title:   "Compiling Cross-Language Network Programs into Hybrid Data Plane"
@@ -109,6 +175,8 @@
       year:    "2022"
       corespd: "false"
       select:  "true"
+      ccf:     "a"
+      xjtu:    "true"
       file:    "coder-ton22-li.pdf"
       
     - title:   "Raze Policy Conflicts in SDN"
@@ -117,6 +185,8 @@
       year:    "2022"
       corespd: "true"
       select:  "false"
+      ccf:     "c"
+      xjtu:    "true"
       file:    "cora-jnca22-zhou.pdf"
 
     - title:   "Differential Network Analysis"
@@ -125,6 +195,8 @@
       year:    "2022"
       corespd: "false"
       select:  "true"
+      ccf:     "a"
+      xjtu:    "true"
       file:    "dna-nsdi22-zhang.pdf"
     
     - title:   "FastUp: Fast TCAM Update for SDN Switches in Datacenter Network"
@@ -132,6 +204,8 @@
       journal: "IEEE ICDCS"
       year:    "2021"
       corespd: "false"
+      ccf:     "b"
+      xjtu:    "false"
       file:    "fastup-icdcs21-wan.pdf"    
     
     - title:   "NB-Cache: Non-Blocking In-Network Caching for High-Performance Content Routers"
@@ -139,6 +213,8 @@
       journal: "ToN"
       year:    "2021"
       corespd: "false"
+      ccf:     "a"
+      xjtu:    "true"
       file:    "nbcache-ton21-pan.pdf"
 
     - title:   "Programming Network Stack for Middleboxes with Rubik"
@@ -147,6 +223,8 @@
       year:    "2021"
       corespd: "false"
       select:  "true"
+      ccf:     "a"
+      xjtu:    "true"
       file:    "rubik-nsdi21-li.pdf"
     
     - title:   "Towards the Fairness of Traffic Policer"
@@ -155,6 +233,8 @@
       year:    "2021"
       corespd: "false"
       select:  "false"
+      ccf:     "a"
+      xjtu:    "true"
       file:    "fairpolicer-infocom21-shan.pdf"
 
     - title:   "Network-Wide Forwarding Anomaly Detection and Localization in Software Defined Networks"
@@ -163,6 +243,8 @@
       year:    "2021"
       corespd: "true"
       select:  "false"
+      ccf:     "a"
+      xjtu:    "true"
       file:    "foces-ton21-zhang.pdf"
 
     - title:   "A Modular Compiler for Network Programming Languages"
@@ -171,6 +253,8 @@
       year:    "2020"
       corespd: "false"
       select:  "true"
+      ccf:     "b"
+      xjtu:    "false"
       file:    "coder-conext20-li.pdf"
 
     - title:   "An Intermediate Representation for Network Programming Languages"
@@ -178,6 +262,8 @@
       journal: "ACM APNet"
       year:    "2020"
       corespd: "false"
+      ccf:     "c"
+      xjtu:    "false"
       file:    "nta-apnet20-li.pdf"
 
     - title:   "Application-Oblivious L7 Parsing Using Recurrent Neural Networks"
@@ -186,6 +272,8 @@
       year:    "2020"
       corespd: "false"
       select:  "true"
+      ccf:     "a"
+      xjtu:    "true"
       file:    "replay-ton20-li.pdf"
 
     - title:   "Efficient Regular Expression Matching over Compressed Traffic"
@@ -193,6 +281,8 @@
       journal: "Computer Networks"
       year:    "2020"
       corespd: "false"
+      ccf:     "b"
+      xjtu:    "false"
       file:    "twins-cn20-sun.pdf"
 
     - title:   "A Scalable Approach to SDN Control Plane Management: High Utilization Comes with Low Latency"
@@ -200,6 +290,8 @@
       journal: "IEEE Transactions on Network and Service Management"
       year:    "2020"
       corespd: "false"
+      ccf:     "c"
+      xjtu:    "false"
       file:    "cpsp-tnsm20-huang.pdf"
 
     - title:   "APKeep: Realtime Verification for Real Networks"
@@ -208,6 +300,8 @@
       year:    "2020"
       corespd: "false"
       select:  "true"
+      ccf:     "a"
+      xjtu:    "true"
       file:    "apkeep-nsdi20-zhang.pdf"
 
     - title:   "NB-Cache: Non-Blocking In-Network Caching for High-Speed Content Routers"
@@ -215,6 +309,8 @@
       journal: "IEEE/ACM IWQoS"
       year:    "2019"
       corespd: "false"
+      ccf:     "b"
+      xjtu:    "false"
       file:    "nbcache-iwqos19-pan.pdf"
     
     - title:   "COIN: A Fast Packet Inspection Method over Compressed Traffic"
@@ -222,6 +318,8 @@
       journal: "Journal of Network and Computer Applications"
       year:    "2019"
       corespd: "true"
+      ccf:     "c"
+      xjtu:    "true"
       file:    "coin-jnca19-sun.pdf"
 
     - title:   "DIAL: Distributed Elephant Flow Counting on SDN"
@@ -229,6 +327,8 @@
       journal: "IEEE Globecom"
       year:    "2018"
       corespd: "false"
+      ccf:     "c"
+      xjtu:    "false"
       file:    "dial-globecom18-peng.pdf"
     
     - title:   "Taming the Wild: A Scalable Anycast-based CDN Architecture (T-SAC)"
@@ -236,6 +336,8 @@
       journal: "JSAC"
       year:    "2018"
       corespd: "false"
+      ccf:     "a"
+      xjtu:    "true"
       file:    "tsac-jsac18-fu.pdf"
     
     - title:   "FOCES: Detecting forwarding anomalies in software defined networks"
@@ -243,6 +345,8 @@
       journal: "IEEE ICDCS"
       year:    "2018"
       corespd: "false"
+      ccf:     "b"
+      xjtu:    "false"
       file:    "foces-icdcs18-zhang.pdf"
 
     - title:   "ShiftRoute: Achieving location privacy for map services on smartphones"
@@ -250,6 +354,8 @@
       journal: "TVT"
       year:    "2018"
       corespd: "true"
+      ccf:     "d"
+      xjtu:    "true"
       file:    "shiftroute-tvt18-zhang.pdf"
     
     - title:   "Towards a Fast Regular Expression Matching Method over Compressed Traffic"
@@ -257,6 +363,8 @@
       journal: "IEEE/ACM IWQoS"
       year:    "2018"
       corespd: "true"
+      ccf:     "b"
+      xjtu:    "false"
       file:    "twins-iwqos18-sun.pdf"
     
     - title:   "CORA: Conflict Razor for Policies in SDN"
@@ -265,6 +373,8 @@
       year:    "2018"
       corespd: "false"
       select:  "true"
+      ccf:     "a"
+      xjtu:    "true"
       file:    "cora-infocom18-li.pdf"
     
     - title:   "SoftRing: Taming the Reactive Model for Software Defined Networks"
@@ -272,6 +382,8 @@
       journal: "IEEE ICNP"
       year:    "2017"
       corespd: "false"
+      ccf:     "b"
+      xjtu:    "false"
       file:    "softring-icnp17-hu.pdf"
     
     - title:   "Towards a Fast Packet Inspection over Compressed HTTP Traffic"
@@ -279,6 +391,8 @@
       journal: "IEEE/ACM IWQoS"
       year:    "2017"
       corespd: "false"
+      ccf:     "b"
+      xjtu:    "false"
       file:    "coin-iwqos17-sun.pdf"
     
     - title:   "Mind the Gap: Monitoring the Control-Data Plane Consistency in Software Defined Networks"
@@ -287,6 +401,8 @@
       year:    "2016"
       corespd: "false"
       select:  "true"
+      ccf:     "b"
+      xjtu:    "false"
       file:    "veridp-conext16-zhang.pdf"
     
     - title:   "Modular SDN Compiler Design with Intermediate Representation"
@@ -294,6 +410,8 @@
       journal: "ACM SIGCOMM Poster"
       year:    "2016"
       corespd: "false"
+      ccf:     "d"
+      xjtu:    "false"
       file:    "lisa-sigcommposter16-li.pdf"
     
     - title:   "Stick to the Script: Monitoring the Policy Compliance of SDN Data Plane"
@@ -301,6 +419,8 @@
       journal: "ANCS"
       year:    "2016"
       corespd: "false"
+      ccf:     "c"
+      xjtu:    "false"
       file:    "veridp-ancs16-zhang.pdf"
     
     - title:   "Deep Semantics Inspection over Big Network Data at Wire Speed"
@@ -309,6 +429,8 @@
       year:    "2016"
       corespd: "false"
       select:  "true"
+      ccf:     "d"
+      xjtu:    "true"
       file:    "dsi-netmag16-hu.pdf"
     
     - title:   "Parsing Application Layer Protocol with Commodity Hardware for SDN"
@@ -317,6 +439,8 @@
       year:    "2015"
       corespd: "false"
       select:  "true"
+      ccf:     "c"
+      xjtu:    "false"
       file:    "copy-ancs15-li.pdf"
     
     - title:   "MP-ROOM: Optimal Matching On Multiple PDUs for Fine-Grained Traffic Identification"
@@ -325,6 +449,8 @@
       year:    "2014"
       corespd: "false"
       select:  "true"
+      ccf:     "a"
+      xjtu:    "true"
       file:    "mproom-jsac14-li.pdf"
     
     - title:   "ROOM: Rule Organized Optimal Matching for Fine-Grained Traffic Identification"
@@ -333,4 +459,6 @@
       year:    "2013"
       corespd: "false"
       select:  "true"
+      ccf:     "a"
+      xjtu:    "true"
       file:    "room-infocom13-li.pdf"
