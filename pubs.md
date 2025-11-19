@@ -26,7 +26,7 @@ title: Publications
 * [**{{pub.title}}**]({{pub.file | prepend: site.fileurl | prepend: site.baseurl}})<br />
 {% if pub.corespd == "false" %}{{pub.author|replace:'Hao Li','<u>Hao Li</u>'}}
 {% else %}{{pub.author|replace:'Hao Li','<u>Hao Li*</u>'}}{% endif %}<br />
-**{{journal}}** **{{pub.year}}**
+**{{journal}}** **{{pub.year}}** {% if pub.ccf == "a" %} <font color=red>(CCF A)</font> {% endif %}
 <!-- {% if pub.note %} *({{pub.note}})* {% endif %}  -->
 {% if pub.doi %}[[doi]({{pub.doi}})]{% endif %}
 {% if pub.media %}{% for article in pub.media %}[[{{article.name}}]({{article.url}})]{% endfor %}{% endif %}
