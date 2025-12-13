@@ -1,4 +1,4 @@
-    - title:   "Mitigating CPU Frontend for Complex Data Plane Applications"
+    - title:   "REAL: Emulating Control Plane at Simulator’s Cost"
       author:  "Ze Xia, Hao Li, Jinyu Fu, Xin Wan, Yihan Dang, Danfeng Shan, Li Chen, Peng Zhang"
       journal: "NSDI"
       year:    "2026"
