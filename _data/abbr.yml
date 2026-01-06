@@ -16,6 +16,9 @@
 - full: "IEEE/ACM Transactions on Networking"
   abbr: "ToN"
 
+- full: "IEEE Transactions on Networking"
+  abbr: "NToN"
+
 - full: "IEEE INFOCOM"
   abbr: "INFOCOM"
 
