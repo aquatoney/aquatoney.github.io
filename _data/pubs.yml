@@ -30,7 +30,7 @@
       
     - title:   "Fast and Accurate Software Traffic Shaping With Inter-Flow Batching"
       author:  "Danfeng Shan, Shihao Hu, Yike Liu, Hao Li, Yazhe Tang, Peng Zhang, Wanchun Jiang, Fengyuan Ren"
-      journal: "ToN"
+      journal: "NToN"
       year:    "2025"
       corespd: "false"
       select:  "false"
@@ -50,7 +50,7 @@
       
     - title:   "Network Specification Mining With High Fidelity, Scalability, and Readability"
       author:  "Ning Kang, Peng Zhang, Hao Li, Sisi Wen, Chaoyang Ji, Yongqiang Yang"
-      journal: "ToN"
+      journal: "NToN"
       year:    "2025"
       corespd: "false"
       select:  "false"
@@ -70,7 +70,7 @@
 
     - title:   "Efficient Headroom Allocation With Two-Level Flow Control for Lossless Datacenter Networks"
       author:  "Danfeng Shan, Jinchao Ma, Yunguang Li, Boxuan Hu, Tong Zhang, Yazhe Tang, Hao Li, Jinyu Wang, Peng Zhang"
-      journal: "ToN"
+      journal: "NToN"
       year:    "2025"
       corespd: "false"
       select:  "false"
