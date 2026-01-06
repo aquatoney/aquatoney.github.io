@@ -7,6 +7,9 @@
 - full: "ACM EuroSys"
   abbr: "EuroSys"
 
+- full: "ACM FSE"
+  abbr: "FSE"
+
 - full: "ACM CoNEXT"
   abbr: "CoNEXT"
 
