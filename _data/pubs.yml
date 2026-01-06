@@ -1,3 +1,13 @@
+    - title:   "AccessRefinery: Fast Mining Concise Access Control Intents on Public Cloud"
+      author:  "Ning Kang, Peng Zhang, Jianyuan Zhang, Hao Li, Dan Wang, Zhenrong Gu, Weibo Lin, Shibiao Jiang, Zhu He, Xu Du, Longfei Chen, Jun Li, Xiaohong Guan"
+      journal: "ACM FSE"
+      year:    "2026"
+      corespd: "false"
+      select:  "true"
+      ccf:     "a"
+      xjtu:    "true"
+      file:    "accessrefinery-fse26-kang.pdf"
+      
     - title:   "REAL: Emulating Control Plane at Simulator’s Cost"
       author:  "Ze Xia, Hao Li, Jinyu Fu, Xin Wan, Yihan Dang, Danfeng Shan, Li Chen, Peng Zhang"
       journal: "NSDI"
