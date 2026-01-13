@@ -157,7 +157,7 @@
       select:  "false"
       ccf:     "b"
       xjtu:    "false"
-      file:    "dsh-icdcs-shan.pdf"
+      file:    "dsh-icdcs23-shan.pdf"
 
     - title:   "LemonNFV: Consolidating Heterogeneous Network Functions at Line Speed"
       author:  "Hao Li, Yihan Dang, Guangda Sun, Guyue Liu, Danfeng Shan, Peng Zhang"
