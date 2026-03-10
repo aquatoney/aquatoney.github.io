@@ -7,11 +7,11 @@ permalink: /
 
 {% include image.html url="images/avatar.jpg" caption="" width="150px" align="right" %}
 
-**Hao Li (李昊)** is an associate professor at the [School of Computer Science and Technology](http://www.cs.xjtu.edu.cn), 
+**Hao Li (李昊)** is a professor at the [School of Computer Science and Technology](http://www.cs.xjtu.edu.cn), 
 [Xi'an Jiaotong University](http://www.xjtu.edu.cn) in P.R. China. 
 He received his Ph.D. degree from Department of Computer Science and Technology, Xi'an Jiaotong University in 2016. 
 He is mainly interested in networked systems, including programmable networks, middleboxes and network verification.
-He is a member of ANTS Lab.
+He is a member of [ANTS Lab](https://ants.xjtu.edu.cn/).
 
 
 **We Want You**
