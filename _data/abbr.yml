@@ -10,6 +10,9 @@
 - full: "ACM FSE"
   abbr: "FSE"
 
+- full: "Formal Methods"
+  abbr: "FM"
+
 - full: "ACM CoNEXT"
   abbr: "CoNEXT"
 
