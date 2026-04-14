@@ -1,3 +1,13 @@
+    - title:   "Fast SMT-Based Fault Tolerance Verification for Wide Area Networks"
+      author:  "Ning Kang, Peng Zhang, Hao Li, Jianyuan Zhang"
+      journal: "FM"
+      year:    "2026"
+      corespd: "false"
+      select:  "true"
+      ccf:     "a"
+      xjtu:    "true"
+      file:    "veriboost-fm26-kang.pdf"
+    
     - title:   "AccessRefinery: Fast Mining Concise Access Control Intents on Public Cloud"
       author:  "Ning Kang, Peng Zhang, Jianyuan Zhang, Hao Li, Dan Wang, Zhenrong Gu, Weibo Lin, Shibiao Jiang, Zhu He, Xu Du, Longfei Chen, Jun Li, Xiaohong Guan"
       journal: "FSE"
