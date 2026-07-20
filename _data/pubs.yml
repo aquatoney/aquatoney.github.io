@@ -1,3 +1,13 @@
+    - title:   "Revisiting Preemptive Buffer Management for Modern Datacenter Switch Chips"
+      author:  "Danfeng Shan, Jinchao Ma, Jinyu Wang, Yunguang Li, Yuxuan Li, Zeyu Liang, Zicheng Xu, Hao Li, Zhenxing Zhang, Nan Li, Wanchun Jiang, Fengyuan Ren"
+      journal: "TC"
+      year:    "2026"
+      corespd: "false"
+      select:  "false"
+      ccf:     "a"
+      xjtu:    "true"
+      file:    "occamy-tc26-shan.pdf"
+    
     - title:   "Fast SMT-Based Fault Tolerance Verification for Wide Area Networks"
       author:  "Ning Kang, Peng Zhang, Hao Li, Jianyuan Zhang"
       journal: "FM"
