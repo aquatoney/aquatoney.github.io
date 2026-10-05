@@ -1,0 +1,12 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
+cd "$(dirname "${BASH_SOURCE[0]}")/.."
+
+# Use the isolated runtime provisioned on this Mac when it is available.
+site_runtime_env="${HOME}/.cache/aquatoney-site-runtime/env.sh"
+if [[ -f "$site_runtime_env" ]]; then
+  source "$site_runtime_env"
+fi
+
+exec bundle exec jekyll serve --config _config.yml,_config.local.yml --host 127.0.0.1 "$@"
