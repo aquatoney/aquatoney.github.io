@@ -1,0 +1,25 @@
+phd_students:
+  - name: Yihan Dang
+    name_zh: 党一涵
+  - name: Bin Song
+    name_zh: 宋斌
+  - name: Jun Hao
+    name_zh: 郝军
+
+masters_students:
+  - name: Zhiyuan Li
+    name_zh: 李芝塬
+  - name: Jiawei Liang
+    name_zh: 梁佳伟
+  - name: Jiajun Luan
+    name_zh: 栾家骏
+  - name: Xiaoyu Wang
+    name_zh: 王小雨
+  - name: Ziyan Zhang
+    name_zh: 张子妍
+  - name: Ruitian Zhong
+    name_zh: 钟锐添
+  - name: Haowen Zhuang
+    name_zh: 庄皓文
+
+alumni: []

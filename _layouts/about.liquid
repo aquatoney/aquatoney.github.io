@@ -1,0 +1,44 @@
+---
+layout: default
+---
+<div class="home-page">
+  <section class="home-intro" aria-labelledby="profile-name">
+    <div class="home-biography">
+      <header class="home-heading">
+        <h1 id="profile-name">
+          {{ site.first_name }}
+          {{ site.last_name }}
+          <span lang="zh">李昊</span>
+        </h1>
+        <p class="home-subtitle">{{ page.subtitle }}</p>
+      </header>
+      <div class="home-description">{{ content }}</div>
+      <nav class="home-links" aria-label="Contact and profiles">
+        <a href="mailto:{{ site.data.socials.email }}">{{ site.data.socials.email }}</a>
+        <a href="https://github.com/{{ site.data.socials.github_username }}">GitHub <span aria-hidden="true">↗</span></a>
+      </nav>
+      <p class="home-office">Office: {{ page.office }}</p>
+    </div>
+    <figure class="home-portrait">
+      <img src="{{ page.profile.image | prepend: '/assets/img/' | relative_url }}" alt="Hao Li" width="200" height="276" fetchpriority="high">
+    </figure>
+  </section>
+
+  <aside class="home-recruiting" aria-labelledby="joining-heading">
+    <h2 id="joining-heading">Join our group</h2>
+    <p>
+      I’m looking for motivated Master’s and Ph.D. students. Undergraduate research interns are also welcome.
+      <a href="mailto:{{ site.data.socials.email }}">Get in touch with your CV <span aria-hidden="true">→</span></a>
+    </p>
+  </aside>
+
+  {% if page.announcements.enabled %}
+    <section class="home-news" aria-labelledby="news-heading">
+      <div class="section-heading">
+        <h2 id="news-heading">News</h2>
+        <a href="{{ '/pubs/' | relative_url }}">All publications <span aria-hidden="true">→</span></a>
+      </div>
+      {% include site-news.liquid limit=page.announcements.limit %}
+    </section>
+  {% endif %}
+</div>

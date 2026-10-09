@@ -9,7 +9,7 @@
 - 旧版基线：`pre-al-folio-2026-10-05`，对应提交 `e17e076`。
 - 已迁入个人简介、照片、招生信息、联系方式、53 篇论文及原有 20 篇精选标记。
 - 保留 `/pubs/`、48 份 `/files/` PDF、原有图片地址、域名和 Google 验证文件。
-- 采用模板默认布局；栏目及内容排布留待后续调整。
+- 首页采用简洁的个人介绍、招生信息和 News；全部论文集中在 Publications，People 展示在读博士生和硕士生，Alumni 暂时留空。
 - 当前 GitHub Actions 仅验证构建，不发布网站。正式上线前需要单独配置 Pages 部署。
 
 ## 本地预览
@@ -43,9 +43,13 @@ docker compose up --build
 | 网站、主题与插件配置         | `_config.yml`              |
 | 论文附件                     | `files/`                   |
 
-新增论文使用 BibTeX 格式，作者以 `and` 分隔。`selected = {true}` 表示首页精选。
+新增论文使用 BibTeX 格式，作者以 `and` 分隔。保留原有 `selected` 标记，但首页不再展示精选论文。
 `pdf = {https://haolis.com/files/文件名.pdf}` 指向现有附件目录；没有可用文件时不填写 `pdf`。
-`corresponding`、`ccf`、`xjtu` 保留原网站元数据；`annotation` 显示通讯作者和 CCF A 说明。
+`corresponding`、`ccf`、`xjtu` 保留原网站元数据。通讯作者以姓名旁的星号表示，CCF A/B/C 以徽章显示。
+奖项使用 `award`、`award_name` 和 `award_url` 字段，REAL 已标注 NSDI 2026 Community Award。
+
+首页 News 放在 `_news/`，日期依据记录在 `docs/news-sources.md`。People 页面在 `_pages/people.md`，中英文学生名单在 `_data/people.yml`。
+视觉微调位于 `_sass/_site.scss`，有意覆盖的模板已通过 al-folio 升级工具登记。
 
 以下五篇论文的 PDF 原仓库尚未提供，迁移后隐藏下载按钮，并以 `legacy_file` 保留预期文件名：
 

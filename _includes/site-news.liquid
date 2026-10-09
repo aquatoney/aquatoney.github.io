@@ -1,0 +1,25 @@
+{% assign news_items = site.news | sort: 'date' | reverse %}
+<ul class="news-list">
+  {% for item in news_items limit: include.limit %}
+    <li>
+      <time datetime="{{ item.date | date: '%Y-%m-%d' }}">{{ item.date | date: '%b %Y' }}</time>
+      <div class="news-content">
+        {% if item.venue or item.award %}
+          {% assign venue = site.data.news_venues[item.venue] %}
+          <p>
+            {{ item.content | remove: '<p>' | remove: '</p>' | strip }}
+            {% if venue.ccf == 'A' %}
+              <span class="news-badge news-ccf-a">CCF A</span>
+            {%- endif -%}
+            {% if item.award %}
+              <a class="news-badge news-award" href="{{ item.award_url }}">{{ item.award }}</a>
+            {%- endif -%}
+            . Congratulations to the team!
+          </p>
+        {% else %}
+          {{ item.content }}
+        {% endif %}
+      </div>
+    </li>
+  {% endfor %}
+</ul>
