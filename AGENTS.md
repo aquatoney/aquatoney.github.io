@@ -48,5 +48,6 @@ JEKYLL_ENV=production bundle exec jekyll build
 python3 bin/check-site.py _site
 ```
 
-Use `_config.local.yml` for localhost previews. Migration branches build but
-do not deploy; production publication is a separate step after review.
+Use `_config.local.yml` for localhost previews. Migration branches and PRs build
+but do not deploy. Pushes to `master` deploy to GitHub Pages after the build and
+checks pass; merging into `master` is a production publication step.

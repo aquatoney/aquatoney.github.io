@@ -11,7 +11,7 @@
 - 保留 `/pubs/`、48 份 `/files/` PDF、原有图片地址、域名和 Google 验证文件。
 - 首页采用简洁的个人介绍、招生信息和 News；全部论文集中在 Publications，People 展示在读博士生和硕士生，Alumni 暂时留空。
 - Jekyll 自动生成 `sitemap.xml`；根目录 `robots.txt` 明确指向 `https://haolis.com/sitemap.xml`。
-- 当前 GitHub Actions 仅验证构建，不发布网站。正式上线前需要单独配置 Pages 部署。
+- GitHub Pages 使用 GitHub Actions 发布：推送到 `master` 后先构建检查，再自动部署到 <https://haolis.com>；重构分支和 PR 只验证构建。
 
 ## 本地预览
 
