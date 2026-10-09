@@ -10,6 +10,7 @@
 - 已迁入个人简介、照片、招生信息、联系方式、53 篇论文及原有 20 篇精选标记。
 - 保留 `/pubs/`、48 份 `/files/` PDF、原有图片地址、域名和 Google 验证文件。
 - 首页采用简洁的个人介绍、招生信息和 News；全部论文集中在 Publications，People 展示在读博士生和硕士生，Alumni 暂时留空。
+- Jekyll 自动生成 `sitemap.xml`；根目录 `robots.txt` 明确指向 `https://haolis.com/sitemap.xml`。
 - 当前 GitHub Actions 仅验证构建，不发布网站。正式上线前需要单独配置 Pages 部署。
 
 ## 本地预览

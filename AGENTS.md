@@ -12,6 +12,7 @@ This site uses the al-folio v1.2 starter. Its Git history and origin belong to
 - `_bibliography/papers.bib`: the single source of publication data.
 - `files/`: existing PDF URLs; preserve filenames and contents.
 - `CNAME` and the Google verification HTML file must survive migrations.
+- `robots.txt` must point crawlers to `https://haolis.com/sitemap.xml`.
 - The production URL is `https://haolis.com`, with an empty `baseurl`.
 - Do not invent publication metadata, CV facts, news, or missing PDFs.
 
