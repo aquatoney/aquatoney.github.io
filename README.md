@@ -52,13 +52,10 @@ docker compose up --build
 首页 News 放在 `_news/`，日期依据记录在 `docs/news-sources.md`。People 页面在 `_pages/people.md`，中英文学生名单在 `_data/people.yml`。
 视觉微调位于 `_sass/_site.scss`，有意覆盖的模板已通过 al-folio 升级工具登记。
 
-以下五篇论文的 PDF 原仓库尚未提供，迁移后隐藏下载按钮，并以 `legacy_file` 保留预期文件名：
+以下两篇论文的 PDF 原仓库尚未提供，迁移后隐藏下载按钮，并以 `legacy_file` 保留预期文件名：
 
 - `occamy-tc26-shan.pdf`
-- `veriboost-fm26-kang.pdf`
 - `accessrefinery-fse26-kang.pdf`
-- `real-nsdi26-xia.pdf`
-- `nanopl-nsdi26-dang.pdf`
 
 ## 构建检查
 
